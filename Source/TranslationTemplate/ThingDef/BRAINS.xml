@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Rough Barricade -->
+  <RoughBarricade.label>Rough Barricade</RoughBarricade.label>
+  <!-- EN: Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable. -->
+  <RoughBarricade.description>Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable.</RoughBarricade.description>
+  <!-- EN: Rough Barricade Corner -->
+  <RoughBarricadeCorner.label>Rough Barricade Corner</RoughBarricadeCorner.label>
+  <!-- EN: Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable. -->
+  <RoughBarricadeCorner.description>Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable.</RoughBarricadeCorner.description>
+  <!-- EN: Rough Barricade End A -->
+  <RoughBarricadeEND.label>Rough Barricade End A</RoughBarricadeEND.label>
+  <!-- EN: Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable. -->
+  <RoughBarricadeEND.description>Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable.</RoughBarricadeEND.description>
+  <!-- EN: Rough Barricade End B -->
+  <RoughBarricadeENDTWO.label>Rough Barricade End B</RoughBarricadeENDTWO.label>
+  <!-- EN: Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable. -->
+  <RoughBarricadeENDTWO.description>Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable.</RoughBarricadeENDTWO.description>
+  <!-- EN: Rough Barricade Interior Corner -->
+  <RoughBarricadeINCorner.label>Rough Barricade Interior Corner</RoughBarricadeINCorner.label>
+  <!-- EN: Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable. -->
+  <RoughBarricadeINCorner.description>Sandbags, Cavalry Spikes, And Barbed Wire - A Wall With Clear Intentions - Untraversable.</RoughBarricadeINCorner.description>
+</LanguageData>

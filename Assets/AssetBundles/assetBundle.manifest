@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2936329339
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09536920d5d2177d28bd10cbf79393a9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 09536920d5d2177d28bd10cbf79393a9
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeEND_north.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeINCorner_south.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeEND_west.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeINCorner_east.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricade_south.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricade_east.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeINCorner_west.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeCorner_west.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeINCorner_north.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeCorner_south.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeENDTWO_UI.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricade_north.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeCorner_east.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeCorner_north.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeENDTWO_east.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeENDTWO_south.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeEND_east.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeCorner_UI.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeENDTWO_west.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeINCorner_UI.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeENDTWO_north.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricade_west.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeEND_south.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricade_UI.png
+- Assets/Data/Mlie.RoughBarricade/Textures/Things/Building/Security/RoughBarricade/RoughBarricadeEND_UI.png
+Dependencies: []
